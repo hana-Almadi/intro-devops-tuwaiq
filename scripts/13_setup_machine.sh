@@ -15,6 +15,8 @@ echo 'alias show = "ls -a" ' >> ~/.zshrc
 echo 'alias installPackages = "./13_setup_machine.sh" ' >> ~/.zshrc
 
 }
+installPackages
+createShortcuts
 
 
 
